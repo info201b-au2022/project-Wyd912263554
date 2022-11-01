@@ -8,7 +8,8 @@ Linda Li (lli0309@uw.edu) , Edward Wu (ywu32@uw.edu), Willis Liang (xiaowlia@uw.
 
 INFO-201: Technical Foundations of Informatics - The Information School - University of Washington
 
-## Date: Autumn 2022
+## Date:
+Autumn 2022
 
 ## Abstract:
 
@@ -64,22 +65,25 @@ This question is vital because tobacco production in countries can reflect the n
 
 ## Data Set
 
-There are ![three datasets](https://github.com/info201b-au2022/project-Wyd912263554/blob/main/docs/Table.png) we used that are related to our problem domain, the data set about Tobacco Industry, the data set about Tobacco use between the year 1995 to 2010, and the data set about brain stroke. Since we are talking about how smoke affects people's health and how we can control the tobacco trend in our country, these data sets are essential.
-_(Aché, Mathurin, 2020)_
+There are a table to display. ![three datasets](https://github.com/info201b-au2022/project-Wyd912263554/blob/main/docs/Table.png) we used that are related to our problem domain, the data set about Tobacco Industry, the data set about Tobacco use between the year 1995 to 2010, and the data set about brain stroke. Since we are talking about how smoke affects people's health and how we can control the tobacco trend in our country, these data sets are essential._(Aché, Mathurin, 2020)_
+
 The data set about Tobacco Industry showed the production of unprocessed tobacco by country/region in 2000. Even though America was the fourth on the list, it still produced about 408 thousand tons of tobacco. And that is just the data from 20 years ago; with the advancement of technology, America can probably produce way more than 408 thousand tons of tobacco a year. This data can help solve our research question because this proves how much the tobacco industry weighs in our country.
-The provenance of the dataset: It was created by the Kaggle user Mathurin Aché 2 years ago, and Mathurin Aché extracted the dataset from the Tobacco industry's Wikipedia. The author shows no fund or purpose, and there is no citation even on the Wikipedia page for the dataset, so I don't think it's credible and trustworthy. I found the dataset by searching on the Kaggle website, and since the source of the dataset is Wikipedia, I don't trust the source.
-_(Centers for Disease Control and Prevention, 2016)_
+
+The provenance of the dataset: It was created by the Kaggle user Mathurin Aché 2 years ago, and Mathurin Aché extracted the dataset from the Tobacco industry's Wikipedia. The author shows no fund or purpose, and there is no citation even on the Wikipedia page for the dataset, so I don't think it's credible and trustworthy. I found the dataset by searching on the Kaggle website, and since the source of the dataset is Wikipedia, I don't trust the source. _(Centers for Disease Control and Prevention, 2016)_
+
 The data set about Tobacco use between 1995 to 2010 filters out people who smoked into four levels: never smoked, former smoker, smoke some days, and smoke every day. The data includes data from 1995 to 2010, and about everywhere in America and territories like the Virgin Islands are included. According to the data, most places in America have about 40 to 50 percent of people have experience with tobacco. This data can help solve our research question because this proves that tobacco use is a massive problem in America since there is a large portion of people who use tobacco in each state.
-The provenance of the dataset: It was created by the Kaggle user Centers for Disease Control and Prevention 6 years ago, and the purpose of it is to show tobacco trends in the United States. The Centers probably provide the collecting fund for Disease Control and Prevention, and I don't think this data is for profit-making. The data is collected and protected by the Behavioral Risk Factor Surveillance System, which is credible and trustworthy since it is from the CDC. I found the data set by searching on Kaggle, and I trust the source of the data.
-_(Tech, Jillani Soft, 2022)_
+
+The provenance of the dataset: It was created by the Kaggle user Centers for Disease Control and Prevention 6 years ago, and the purpose of it is to show tobacco trends in the United States. The Centers probably provide the collecting fund for Disease Control and Prevention, and I don't think this data is for profit-making. The data is collected and protected by the Behavioral Risk Factor Surveillance System, which is credible and trustworthy since it is from the CDC. I found the data set by searching on Kaggle, and I trust the source of the data. _(Tech, Jillani Soft, 2022)_
+
 The data set about Brain Stroke has smoke as a critical variable as a cause of brain stroke. Most of the volunteers in the data set are not smokers, and there according to the data, most of the volunteers have not had a brain stroke. This data can help solve our research question because this proves smoking might cause brain stroke.
+
 The provenance of the dataset: It was created by the Kaggle user Jillani Soft Tech 3 months ago, and he made the data to warn people about the danger of brain stroke. There is no funding showing, and the data source is unknown. I found the data set by searching on Kaggle, and I don't trust the source since the author did not cite the original anywhere.
 
 ## Implications:
 
 In answering our questions regarding tobacco **production, usage, and effects,** we expect **_significant changes from the ground up regarding tobacco regulations surrounding both presentations, as well as restrictions on use._** Suppose we can effectively show connections between countries that produce and consume tobacco the most being a significant influencer of adverse health and economic outcomes. In that case, there will be grounds for **future policies to be implemented against smoking.** While technologists and designers may be trying to promote the usage of their tobacco products as safe and recreational, it could very well be with little to no results. In the aftermath of more of tobacco’s adverse effects and correlations being uncovered, it would not be surprising to see policymakers from _governments to health officials_ cracking down on both tobacco production and consumption, ultimately leading to a smaller market for the public tobacco industry and the possibility for more of a surge of unauthorized tobacco trade as demand would drive suppliers to unethical practices out of desperation so move product.
 
-##Limitations:
+## Limitations:
 
 While this study looks to bring light to tobacco usage numbers and trends using as many data-driven methods as possible, there are still underlying **_limitations_** that could impact the study/results. The most obvious and impactful limitation of this study is the possibility of innate **correlation bias** in an effort to show tobacco production consumption. Another limitation that needs to be addressed could be the **time relevance** of our data. The data sets we analyzed ranged from _1995-2010, over ten years ago._ It would have to be noted that the trends drawn from our data could be irrelevant now due to advancements in technology from the end time of our data sets to now regarding both tobacco production, forms of consumption, as well as medical advances.
 
