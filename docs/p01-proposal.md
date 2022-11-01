@@ -28,6 +28,7 @@ Tobacco is a plant that contains nicotine, which can lead to addiction. Tobacco 
 ### Framing: What is the problem domain or design situation? What are the scientific, cultural, social, governmental, or economic issues or questions?
 
 Tobacco harm is one of the serious public health problems in the world today. Numerous scientific evidence shows that smoking and second-hand smoke seriously harm human health. According to the World Health Organization statistics, the number of deaths due to smoking is as high as 6 million every year in the world. Substantial evidence shows that smoking can lead to multi-site malignancies, other chronic diseases, reproductive and developmental abnormalities, and other diseases and health problems. Smoking is a significant risk factor for infections like pneumonia, heart attacks, strokes, chronic obstructive pulmonary disease (COPD) (including emphysema and chronic bronchitis), and multiple cancers (particularly lung cancer, cancers of the larynx and mouth, bladder cancer, and pancreatic cancer). _(Health effects of tobacco 2022)_
+
 Another governmental issue is the fact that the tobacco revenue is pretty high because tobacco has certain medicinal value, the number of smokers is large, and the tobacco industry is very profitable. So, the tobacco industry is difficult to restrict. The government signed a series of laws to reduce tobacco harm; for example, Engrossed House Bill 1074 was signed into law in March 2019, raising the minimum legal sales age of tobacco and vapor products to 21 years. _(Laws and regulations 2022)_ But tobacco sales remain high.
 
 ### Human values. What human values are within or connected to your problem domain? Where do the values originate? What value tensions among different values are present?
@@ -65,7 +66,7 @@ This question is vital because tobacco production in countries can reflect the n
 
 ## Data Set
 
-There are a table to display. ![three datasets](https://github.com/info201b-au2022/project-Wyd912263554/blob/main/docs/Table.png) we used that are related to our problem domain, the data set about Tobacco Industry, the data set about Tobacco use between the year 1995 to 2010, and the data set about brain stroke. Since we are talking about how smoke affects people's health and how we can control the tobacco trend in our country, these data sets are essential._(Aché, Mathurin, 2020)_
+There are a table to display. ![three datasets](https://github.com/info201b-au2022/project-Wyd912263554/blob/main/docs/Table.png) we used that are related to our problem domain, the data set about Tobacco Industry, the data set about Tobacco use between the year 1995 to 2010, and the data set about brain stroke. Since we are talking about how smoke affects people's health and how we can control the tobacco trend in our country, these data sets are essential. _(Aché, Mathurin, 2020)_
 
 The data set about Tobacco Industry showed the production of unprocessed tobacco by country/region in 2000. Even though America was the fourth on the list, it still produced about 408 thousand tons of tobacco. And that is just the data from 20 years ago; with the advancement of technology, America can probably produce way more than 408 thousand tons of tobacco a year. This data can help solve our research question because this proves how much the tobacco industry weighs in our country.
 
@@ -90,8 +91,13 @@ While this study looks to bring light to tobacco usage numbers and trends using 
 ## Citation
 
 Centers for Disease Control and Prevention. “Tobacco Use 1995-2010.” Kaggle, 17 Nov. 2016, https://www.kaggle.com/datasets/cdc/tobacco-use.
+
 Aché, Mathurin. “Tobacco_industry.” Kaggle, 17 July 2020, https://www.kaggle.com/datasets/mathurinache/tobacco-industry.
+
 Tech, Jillani Soft. “Brain Stroke Dataset.” Kaggle, 4 Aug. 2022, https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset.
-Wikimedia Foundation. (2022, October 29). Health effects of tobacco. Wikipedia. Retrieved October 31, 2022, from https://en.wikipedia.org/wiki/Health_effects_of_tobacco#:~:text=Smoking%20is%20a%20major%20risk,cancer%2C%20and%20pancreatic%20cancer*
+
+Wikimedia Foundation. (2022, October 29). Health effects of tobacco. Wikipedia. Retrieved October 31, 2022, from https://en.wikipedia.org/wiki/Health_effects_of_tobacco#:~:text=Smoking%20is%20a%20major%20risk,cancer%2C%20and%20pancreatic%20cancer.
+
 Laws and regulations. Washington State Department of Health. (n.d.). Retrieved October 31, 2022, from https://doh.wa.gov/you-and-your-family/tobacco/laws-and-regulations#:~:text=Sale%20of%20Tobacco%20and%20Vapor,effect%20on%20January%201%2C%202020.
+
 Published by Statista Research Department, & 30, S. (2022, September 30). U.S. - Tobacco Tax Revenue and forecast 2027. Statista. Retrieved October 31, 2022, from https://www.statista.com/statistics/248964/revenues-from-tobacco-tax-and-forecast-in-the-us/#:~:text=In%202021%2C%20revenues%20from%20tobacco,was%203.42%20trillion%20U.S.%20dollars.
