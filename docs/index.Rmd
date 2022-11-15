@@ -67,4 +67,4 @@ source("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/m
 plot(chart_3)
 ```
 
-parapragh 3.
+For the data set about Tobacco use between 1995 to 2010, we use the scatter plot to find the percentile of people who never smoked in Washington state. The purpose of using this plot is to see the tobacco use trend from 1995 to 2010. Even though the chart shows a progression (the never smoking rate in 1995 was about 50.2%, and the never smoking rate in 2010 was approximately 59.3%), the percentage of people who had experience with tobacco in Washington state is still insane. The best never-smoking rate in Washington state is about 59.3%, which means there are still about 40% of people who have experienced smoking at the best of the year. 
