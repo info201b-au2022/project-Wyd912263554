@@ -10,7 +10,6 @@ Tobacco_Washington <- Tobacco %>%
 chart_2 <- ggplot(data = Tobacco_Washington) + 
   geom_point(aes(x = Year, y = Smoke.everyday)) +
   ylab("Percentage of People Smoking Everyday in Washington State")
-plot(chart_2)
 
 
 
