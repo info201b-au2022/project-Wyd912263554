@@ -29,7 +29,7 @@ Tobacco harm is one of the serious public health problems in the world today. Fr
 ## Table
 ```{r creates a table of summary information}
 source("https://github.com/info201b-au2022/project-Wyd912263554/blob/main/source/Table.R")
-
+cigarette_group
 ```
 
 This table was included to illustrate the percentages of populations that smoked in a given state or location in our data. We aimed to give the reader a good  visual perception of percentages of populations that recorded smoking across 2019 to 2020. In doing so we hoped to illustrate the changes in smoking behavior that may have occured across the given time period. We combined two data sets with information regarding smoking percentage demographics to come to this summary table. By sorting the percentage of non-smokers in 2020 in an ascending order you are able to see the states with the highest percentage population of smokers. It in interesting to note that state
