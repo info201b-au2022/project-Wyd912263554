@@ -28,7 +28,7 @@ Tobacco harm is one of the serious public health problems in the world today. Fr
 
 ## Table
 ```{r creates a table of summary information}
-source("https://github.com/info201b-au2022/project-Wyd912263554/blob/main/source/Table.R")
+source("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/source/Table.R")
 cigarette_group
 ```
 
