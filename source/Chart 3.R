@@ -1,6 +1,5 @@
 library(dplyr)
 library(ggplot2)
-library(plotly)
 
 Tobacco <- read.csv("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/data/tobacco.csv")
 
