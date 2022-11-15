@@ -49,18 +49,21 @@ When you click the **Knit** button a document will be generated that includes bo
 You can also embed plots, for example: Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 ```{r chart_1, echo=FALSE}
+source("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/source/Chart%201.R")
 plot(chart_1)
 ```
 
-paragraph 1.
+For the data set about the tobacco industry, we choose to use the bar graph. The purpose of using this data set is to show how much the tobacco industry weighs in our country. According to the chart, America is one of the countries that produce a high amount of tobacco; from the chart, the United States is in 4th place among all the ten countries. 
 
 ```{r chart_2, echo=FALSE}
+source("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/source/Chart%202.R")
 plot(chart_2)
 ```
 
 paragraph 2.
 
 ```{r chart_3, echo=FALSE}
+source("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/source/Chart%203.R")
 plot(chart_3)
 ```
 
