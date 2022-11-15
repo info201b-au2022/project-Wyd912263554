@@ -28,11 +28,14 @@ Tobacco harm is one of the serious public health problems in the world today. Fr
 
 ## Table
 ```{r creates a table of summary information}
-# Example 1: This function was "sourced" above
-msg <- data_access_test(" Morgan!")
+source("")
+
 ```
 
-> `r msg` Hope you have a good day!! 
+This table was included to illustrate the percentages of populations that smoked in a given state or location in our data. We aimed to give the reader a good  visual perception of percentages of populations that recorded smoking across 2019 to 2020. In doing so we hoped to illustrate the changes in smoking behavior that may have occured across the given time period. We combined two data sets with information regarding smoking percentage demographics to come to this summary table. By sorting the percentage of non-smokers in 2020 in an ascending order you are able to see the states with the highest percentage population of smokers. It in interesting to note that state
+with the highest percentage of smokers in 2020 was Nevada and the state with the lowest percentage
+of its population being smokers in 2020 was Utah. It could be intruiging to explore some of the 
+underlying causes of these differences from different key standpoints such as culture to economy.
 
 ## ABOUT THIS FILE: 
 
