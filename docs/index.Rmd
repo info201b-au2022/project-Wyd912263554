@@ -60,7 +60,7 @@ source("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/m
 plot(chart_2)
 ```
 
-paragraph 2.
+For the data set about Tobacco use between 1995 to 2010, we use the plot to find the percentile of people who smoked every day in Washington state. The purpose of using this plot is to see the tobacco use trend from 1995 to 2010. Even though the chart shows a decline (the never smoking rate in 1995 was about 17.5%, and the never smoking rate in 2010 was approximately 11%), the percentage of people who smoke tobacco in Washington state is very high. The best year in the chart is 2009, and in that year there are still 10.7% of the people in Washington state smoked every day.
 
 ```{r chart_3, echo=FALSE}
 source("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/source/Chart%203.R")
