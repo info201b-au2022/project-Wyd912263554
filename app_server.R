@@ -1,22 +1,16 @@
-#
-# This is a Shiny web application. You can run the application by clicking
-# the 'Run App' button above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
 
 library(shiny)
 library(tidyverse)
 library(ggplot2)
 library(plotly)
+library(knitr)
 
-data1 <- read.csv("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/data/tobacco.csv")
-data2 <- read.csv("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/data/Adult_Tobacco_Consumption_In_The_U.S.__2000-Present.csv")
-data3 <- read.csv("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/data/National_Adult_Tobacco_Survey__NATS_.csv")
+source("source/data-wrangling.R")
 
 server <- function(input, output) {
+  output$markdown <- renderUI({
+    HTML(markdown::markdownToHTML(knit('source/Introduction.Rmd', quiet = TRUE)))
+  })
   data1$Smoke.everyday <- gsub("%", "", data1$Smoke.everyday)
   
   df1 <- reactive ({

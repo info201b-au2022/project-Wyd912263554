@@ -1,11 +1,3 @@
-#
-# This is a Shiny web application. You can run the application by clicking
-# the 'Run App' button above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
 
 library(shiny)
 
@@ -17,14 +9,14 @@ source("tabs/tab_panel_summary.R")
 source("tabs/tab_panel_report.R")
 
 ui <- navbarPage(
-  title = "Project Example",
+  title = "Tobacco Analysis",
   position = "fixed-top",
 
   # A simple header
   header = list(
     tags$style(type = "text/css", "body {padding-top: 70px;}"),
     hr(),
-    HTML("... Project Header... "),
+    HTML("This project was created by Linda Li, Edward Wu, Willis Liang, and Kevin Fu"),
     hr()
   ),
 
@@ -32,7 +24,7 @@ ui <- navbarPage(
   footer = list(
     tags$style(type = "text/css", "body {padding-top: 70px;}"),
     hr(),
-    HTML("... Project Footer ... "),
+    HTML("INFO 201 B Au 22: Foundational Skills For Data Science: P3: Final Deliverable"),
     hr()
   ),
 

@@ -4,5 +4,10 @@ library(shiny)
 
 tab_panel_intro <-tabPanel(
     "Introduction",
-    p("This is the introduction.")
+    fluidRow(
+      column(
+        12,
+        uiOutput('markdown')
+      )
+    )
 )

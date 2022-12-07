@@ -3,7 +3,6 @@
 library(shiny)
 
 tab_panel_summary <-tabPanel(
-    "Summary",
-    p("This is for the summary of key points.")
+  "Summary",
+  p("This is for the summary of key points.")
 )
-
