@@ -28,8 +28,8 @@ Tobacco harm is one of the serious public health problems in the world today. Fr
 
 ## Table
 ```{r creates a table of summary information}
-source("https://github.com/info201b-au2022/project-Wyd912263554/blob/main/source/Table.R")
-
+source("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/source/Table.R")
+cigarette_group
 ```
 
 This table was included to illustrate the percentages of populations that smoked in a given state or location in our data. We aimed to give the reader a good  visual perception of percentages of populations that recorded smoking across 2019 to 2020. In doing so we hoped to illustrate the changes in smoking behavior that may have occured across the given time period. We combined two data sets with information regarding smoking percentage demographics to come to this summary table. By sorting the percentage of non-smokers in 2020 in an ascending order you are able to see the states with the highest percentage population of smokers. It in interesting to note that state
@@ -49,19 +49,22 @@ When you click the **Knit** button a document will be generated that includes bo
 You can also embed plots, for example: Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 ```{r chart_1, echo=FALSE}
+source("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/source/Chart%201.R")
 plot(chart_1)
 ```
 
-paragraph 1.
+For the data set about the tobacco industry, we choose to use the bar graph. The purpose of using this data set is to show how much the tobacco industry weighs in our country. According to the chart, America is one of the countries that produce a high amount of tobacco; from the chart, the United States is in 4th place among all the ten countries. 
 
 ```{r chart_2, echo=FALSE}
+source("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/source/Chart%202.R")
 plot(chart_2)
 ```
 
-paragraph 2.
+For the data set about Tobacco use between 1995 to 2010, we use the plot to find the percentile of people who smoked every day in Washington state. The purpose of using this plot is to see the tobacco use trend from 1995 to 2010. Even though the chart shows a decline (the never smoking rate in 1995 was about 17.5%, and the never smoking rate in 2010 was approximately 11%), the percentage of people who smoke tobacco in Washington state is very high. The best year in the chart is 2009, and in that year there are still 10.7% of the people in Washington state smoked every day.
 
 ```{r chart_3, echo=FALSE}
+source("https://raw.githubusercontent.com/info201b-au2022/project-Wyd912263554/main/source/Chart%203.R")
 plot(chart_3)
 ```
 
-parapragh 3.
+For the data set about Tobacco use between 1995 to 2010, we use the scatter plot to find the percentile of people who never smoked in Washington state. The purpose of using this plot is to see the tobacco use trend from 1995 to 2010. Even though the chart shows a progression (the never smoking rate in 1995 was about 50.2%, and the never smoking rate in 2010 was approximately 59.3%), the percentage of people who had experience with tobacco in Washington state is still insane. The best never-smoking rate in Washington state is about 59.3%, which means there are still about 40% of people who have experienced smoking at the best of the year. 
