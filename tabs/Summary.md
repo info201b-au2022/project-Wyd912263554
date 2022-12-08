@@ -8,12 +8,11 @@ Surprisingly, according to the first chart, about all of the states in the Unite
 
 ## Takeaway 2: Adult Tobacco Consumption per person is also on a decreasing trend
 
-![](images/Consumption.png)
+![](images/Tobacco%20use.png)
 
 As the second graph shows, the total tobacco consumption per capita has decreased significantly from 2000 to 2020. In the year 2000, the total tobacco consumption per capita of adults is around 2100 cigarettes, and 20 years later, in the year 2020, the total tobacco consumption per capita of adults is about 900 cigarettes. Consumption has decreased by more than 1200 cigarettes per year, which is a significant improvement.
 
-## Takeaway3: Most of the cigarette and cigar users are between the age 25 to 44
+## Takeaway3: Most of the Tobacco users are between the aged 18 to 24
+![](images/Consumption.png)
 
-![](images/Tobacco%20use.png)
-
-The third graph shows that most cigarette and cigar users are aged 45 to 64, and most E-cigarette users are between 18 and 24. Also, we know that cigarette has the most users, E-Cigarette has the second most users, and cigar has the minor users.
+The third graph shows that most tobacco users are aged between 18 and 24 and form the most e-cigarette user. Also, we know that cigarette has the most users, E-Cigarette has the second most users, and cigar has the minor users. 
