@@ -24,7 +24,11 @@ tab_panel_chart2 <-tabPanel(
     
     mainPanel(
       plotlyOutput("chart2"),
+<<<<<<< HEAD
        
+=======
+      
+>>>>>>> refs/remotes/origin/main
       p("This dot plot finds the trends in adult consumption of different combustible tobacco products per 
       capita from 2000 to 2020. Users are able to select different measures of combustible tobacco products
       to see the trend of them. They can also adjust the scale of year to see the trend of a specific time
