@@ -49,7 +49,8 @@ server <- function(input, output) {
   
   df3 <- reactive({
     new_df2 <- data3 %>%
-      filter(TopicDesc == input$tobacco_type)
+      filter(TopicDesc == input$tobacco_type) %>%
+      filter(Age == "18 to 24 Years" | Age == "25 to 44 Years" | Age == "45 to 64 Years" | Age == "65 Years and Older")
   })
   
   output$chart3 <- renderPlotly({
