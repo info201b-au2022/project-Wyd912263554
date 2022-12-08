@@ -1,8 +1,13 @@
 # tab_panel_summary
-
+library("markdown")
 library(shiny)
 
 tab_panel_summary <-tabPanel(
-  "Summary",
-  p("This is for the summary of key points.")
-)
+    "Summary",
+    fluidRow(
+      column(
+        12,
+        includeMarkdown("tabs/Summary.md")
+      )
+    )
+  )

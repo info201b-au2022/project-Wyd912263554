@@ -1,6 +1,6 @@
 # The Cause and Impact of Widespread Tobacco Use in the Country: Project Proposal
 
-![cigarette](images/cigarette.png)
+![](images/titleimage.jpeg)
 
 ## Code Name:
 
@@ -101,7 +101,6 @@ How do the average glucose level, BMI, and age compare for brain stroke patients
 Which country produces the most tobacco? Why? According to the tobacco industry data, China produces the most tobacco in the world with an amount of 2298.8 thousand tons of tobacco produced. More than 80% of the tobacco leaf production produced in China is used for domestic cigarette production. China produces the most tobacco because tobacco can contribute lots of tax and economic gain to the government in China. The cigarette industry is also one of the biggest industries in China. Therefore, the government can ignore the negative health impact of smoking.
 
 ## Discussion:
-
 
 ## Conclusion:
 
