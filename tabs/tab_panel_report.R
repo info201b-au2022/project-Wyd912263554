@@ -13,7 +13,5 @@ tab_panel_report <-tabPanel(
       includeMarkdown("tabs/report.md")
     )
   )
-
-
 )
 
