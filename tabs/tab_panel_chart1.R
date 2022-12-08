@@ -30,11 +30,7 @@ tab_panel_chart1 <-tabPanel(
         also adjust the scale of year using the slider. We included the chart because it allows the users to see 
         the population of those who smoke everyday from states they would like to choose. "),
         
-<<<<<<< HEAD
         p("The overall trend of all states has decreased since 1995. It's interesting how there are couple of peaks
-=======
-        p("The overall trend of all states has increased since 1995. It's interesting how there are couple of peaks
->>>>>>> refs/remotes/origin/main
         from 2000 to 2003. We also noticed that eastern states tend to have more smoking  population than western 
         states in the U.S.")
       )
