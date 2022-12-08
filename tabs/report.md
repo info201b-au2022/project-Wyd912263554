@@ -1,4 +1,4 @@
-# The Cause and Impact of Widespread Tobacco Use in the Country: Project Proposal
+# The Cause and Impact of Widespread Tobacco Use in the Country
 
 ![](images/titleimage.jpeg)
 
@@ -92,8 +92,8 @@ While this study looks to bring light to tobacco usage numbers and trends using 
 
 ## Findings:
 
-#### What's the trend of tobacco use across the US? 
-For example, which state/area has the most tobacco users compared to other states. Most smoking everyday population in states across the U.S. has decreased from 1995 to 2010. It's interesting that there are a couple of peaks from most states from 2000 to 2003. We observed that Kentucky had the most tobacco users compared to other states. We also noticed that eastern states tend to have more smoking population than western states in the U.S. The middle part of the U.S. has the most smoking population. I think it's due to the urbanicity of certain areas. Urban areas have less smoking population than rural areas.
+#### What's the trend of tobacco use across the US? For example, which state/area has the most tobacco users compared to other states. 
+Most smoking everyday population in states across the U.S. has decreased from 1995 to 2010. It's interesting that there are a couple of peaks from most states from 2000 to 2003. We observed that Kentucky had the most tobacco users compared to other states. We also noticed that eastern states tend to have more smoking population than western states in the U.S. The middle part of the U.S. has the most smoking population. I think it's due to the urbanicity of certain areas. Urban areas have less smoking population than rural areas.
 
 #### What's the trend of adult tobacco use by age groups? 
 We concluded that cigarettes are the main use of tobacco among adults in the U.S. Smokeless tobacco is the second main use of tobacco. Cigars have the least population compared to other tobacco types. People between 18 to 24 tend to use tobacco more than other age groups between 2013 - 2014. We can conclude that younger people use tobacco more often. Older people use cigarettes more while younger age groups use e-cigarettes and hookah use more often. Only people older than 45 use tobacco by pipe.
