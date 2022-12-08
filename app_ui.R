@@ -1,6 +1,6 @@
 
 library(shiny)
-
+library(knitr)
 source("tabs/tab_panel_intro.R")
 source("tabs/tab_panel_chart1.R")
 source("tabs/tab_panel_chart2.R")
