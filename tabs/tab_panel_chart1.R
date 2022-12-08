@@ -24,7 +24,15 @@ tab_panel_chart1 <-tabPanel(
       
       mainPanel(
         plotlyOutput("chart1"),
-        p("This is chart 1.")
+        
+        p("This line chart finds the relationship between smoking population and year of states in the U.S. from 
+        1995 to 2010. By selecting the states in the widget,the user can see the trend from each state. They can
+        also adjust the scale of year using the slider. We included the chart because it allows the users to see 
+        the population of those who smoke everyday from states they would like to choose. "),
+        
+        p("The overall trend of all states has decreased since 1995. It's interesting how there are couple of peaks
+        from 2000 to 2003. We also noticed that eastern states tend to have more smoking  population than western 
+        states in the U.S.")
       )
     )
 )

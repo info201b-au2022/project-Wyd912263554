@@ -33,7 +33,9 @@ server <- function(input, output) {
     
   df2 <- reactive ({
     new <- data2 %>%
-      filter(Measure == input$measure_choice)
+      filter(Measure == input$measure_choice) %>%
+      filter(Year >= input$year_slider[1]) %>%
+      filter(Year <= input$year_slider[2])
   })
   
   output$chart2 <- renderPlotly({
