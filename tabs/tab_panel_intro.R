@@ -2,12 +2,14 @@
 
 library(shiny)
 library(knitr)
+library("markdown")
 tab_panel_intro <-tabPanel(
     "Introduction",
     fluidRow(
       column(
         12,
-        uiOutput('markdown')
+        includeMarkdown("tabs/introduction.md")
       )
     )
 )
+

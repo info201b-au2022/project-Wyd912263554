@@ -1,6 +1,7 @@
 # tab_panel_report
 
 library(shiny)
+library(knitr)
 library("markdown")
 
 tab_panel_report <-tabPanel(

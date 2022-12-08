@@ -8,9 +8,6 @@ library(knitr)
 source("source/data-wrangling.R")
 
 server <- function(input, output) {
-  output$markdown <- renderUI({
-    HTML(markdown::markdownToHTML(knit('source/Introduction.Rmd', quiet = TRUE)))
-  })
   data1$Smoke.everyday <- gsub("%", "", data1$Smoke.everyday)
   
   df1 <- reactive ({

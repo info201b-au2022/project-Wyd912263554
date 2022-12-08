@@ -16,7 +16,7 @@ ui <- navbarPage(
   header = list(
     tags$style(type = "text/css", "body {padding-top: 70px;}"),
     hr(),
-    HTML("This project was created by Linda Li, Edward Wu, Willis Liang, and Kevin Fu"),
+    HTML("This project was created by Linda Li, Edward Wu, and Kevin Fu"),
     hr()
   ),
 

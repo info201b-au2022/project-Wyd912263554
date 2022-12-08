@@ -1,6 +1,6 @@
 # The Cause and Impact of Widespread Tobacco Use in the Country
 
-![1](image/cigarette.png)
+![cigarette](images/cigarette.png)
 
 ## Introduction
 
